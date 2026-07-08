@@ -84,7 +84,7 @@ And the record obeys, on both sides of the ledger. Azusa's mission building was 
 
 Say the conclusion the way the record forces us to say it: **durability is not automatic. It is built.** The revivals that left something behind are the ones where somebody — before or immediately after the outpouring — constructed the vessel: follow-up, fellowship, teaching, prayer rhythms, a body to belong to. The ones that evaporated are the ones where the crowd went home warmed and unheld.
 
-This book gives that law a full chapter of its own — how vessels harden as well as leak, and what keeps a wineskin supple across years — in [The Drift Downward](reader.html#docs/movement-iv-keeping-what-comes/01-the-drift-downward.md). Here it is enough to hear the record's testimony: the fire that was banked endured. The fire that was only enjoyed drained.
+This book gives that law a full chapter of its own — how vessels harden as well as leak, and what keeps a wineskin supple across years — in [The Drift Downward](../movement-iv-keeping-what-comes/01-the-drift-downward.md). Here it is enough to hear the record's testimony: the fire that was banked endured. The fire that was only enjoyed drained.
 
 ## Not Every Ending Is Loss
 
@@ -102,7 +102,7 @@ Step back now, and let the record give its testimony in two sentences.
 
 Notice that both testimonies point the same direction. If revival were not real, preparation would be pointless. If revival did not drain, preparation would be unnecessary. Because both are true, preparation is the one thing the record actually asks of a church — and it is the one thing a church can do without waiting for God's timing, because it is commanded in ordinary time. Not technique; the record buried technique with Finney's confession. Preparation: praying ground, covenanted community, leaders formed in advance, vessels ready.
 
-The risen Christ once told seven real congregations, by name, what state they were in — this movement reads those letters [in the previous chapter](reader.html#docs/movement-i-do-you-want-a-revival/02-the-seven-letters.md). The record now sharpens His question into this book's next one. If God were to pour out His Spirit on your church this year — and the record says He does such things — *what would your congregation catch it in?* What is the state of your ground: hard path, rock, thorns, or soil? That is not a rhetorical flourish. It is a question with an answer, and there are honest ways to go find it. That is where this book goes next: [Movement II — What Is Your Soil?](reader.html#docs/movement-ii-what-is-your-soil/index.md)
+The risen Christ once told seven real congregations, by name, what state they were in — this movement reads those letters [in the previous chapter](02-the-seven-letters.md). The record now sharpens His question into this book's next one. If God were to pour out His Spirit on your church this year — and the record says He does such things — *what would your congregation catch it in?* What is the state of your ground: hard path, rock, thorns, or soil? That is not a rhetorical flourish. It is a question with an answer, and there are honest ways to go find it. That is where this book goes next: [Movement II — What Is Your Soil?](../movement-ii-what-is-your-soil/index.md)
 
 ## Going deeper
 

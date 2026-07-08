@@ -1,6 +1,6 @@
 # A Church in Revival — A Pilot Proposed (DEV)
 
-**This is the working DEV repository.** Content here is draft, under active revision, and not yet authoritative. The published edition will live at [`a-church-in-revival-a-pilot-proposed`](https://github.com/jgtittle-ministries/a-church-in-revival-a-pilot-proposed) once mirrored.
+**This is the working DEV repository.** Content here is draft, under active revision, and not yet authoritative. The published edition will live at [`a-church-in-revival-a-pilot-proposed`](https://github.com/jgtittle-ministries/a-church-in-revival-a-pilot-proposed) once mirrored (that repository is created at the first mirror, so the link is dormant until then).
 
 **Read the book:** https://jgtittle-ministries.github.io/a-church-in-revival-a-pilot-proposed-dev/
 

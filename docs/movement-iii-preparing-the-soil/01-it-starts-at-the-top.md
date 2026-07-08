@@ -92,7 +92,7 @@ The first is the ground itself. Somewhere in the church, the thing this whole bo
 
 The second is the proof. When the invitation eventually goes out to the congregation — *come, open your heart, learn to hear Him, let yourself be known* — it will not be an invitation to a theory. The people extending it will have lived it, been changed by it, and paid for it, and the congregation will be able to see all three. Sheep read shepherds. Let the first thing they read be this: *our leaders went first.*
 
-That is what it means to start at the top. The rain has not come yet; the field is still mostly unbroken; but there is one plot of good soil now, and it is in the right place — upstream of everything. What the church builds next is the vessel to hold what God may send, and that is the work of the next chapter: [The Vessel Before the Rain](reader.html#docs/movement-iii-preparing-the-soil/02-the-vessel-before-the-rain.md).
+That is what it means to start at the top. The rain has not come yet; the field is still mostly unbroken; but there is one plot of good soil now, and it is in the right place — upstream of everything. What the church builds next is the vessel to hold what God may send, and that is the work of the next chapter: [The Vessel Before the Rain](02-the-vessel-before-the-rain.md).
 
 ---
 

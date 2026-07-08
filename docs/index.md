@@ -40,4 +40,4 @@ This book is the meeting of those two convictions: the hunger, and the honesty.
 
 No book produces a revival. God does that, and He has never once been managed into it. What a church *can* do — what churches in the record demonstrably did — is prepare: soften the ground, gather the hungry, form the leaders, and learn the failure modes in advance. That preparation is commanded whether or not the rain comes on our schedule: *"Sow for yourselves righteousness; reap steadfast love; break up your fallow ground, for it is the time to seek the LORD, that he may come and rain righteousness upon you"* (Hosea 10:12, ESV).
 
-If that verse stirs something in you, start with [Start Here](reader.html#docs/start-here.md), and then let Movement I ask you the question.
+If that verse stirs something in you, start with [Start Here](start-here.md), and then let Movement I ask you the question.
