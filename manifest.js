@@ -27,6 +27,7 @@ window.SERIES = [
     "id": "movement-i-do-you-want-a-revival",
     "kind": "series",
     "name": "Movement I — Do You Want a Revival?",
+    "nav": "Movement I",
     "folder": "docs/movement-i-do-you-want-a-revival",
     "edition": null,
     "index": "docs/movement-i-do-you-want-a-revival/index.md",
@@ -41,6 +42,7 @@ window.SERIES = [
     "id": "movement-ii-what-is-your-soil",
     "kind": "series",
     "name": "Movement II — What Is Your Soil?",
+    "nav": "Movement II",
     "folder": "docs/movement-ii-what-is-your-soil",
     "edition": null,
     "index": "docs/movement-ii-what-is-your-soil/index.md",
@@ -55,6 +57,7 @@ window.SERIES = [
     "id": "movement-iii-preparing-the-soil",
     "kind": "series",
     "name": "Movement III — Preparing the Soil",
+    "nav": "Movement III",
     "folder": "docs/movement-iii-preparing-the-soil",
     "edition": null,
     "index": "docs/movement-iii-preparing-the-soil/index.md",
@@ -69,6 +72,7 @@ window.SERIES = [
     "id": "movement-iv-keeping-what-comes",
     "kind": "series",
     "name": "Movement IV — Keeping What Comes",
+    "nav": "Movement IV",
     "folder": "docs/movement-iv-keeping-what-comes",
     "edition": null,
     "index": "docs/movement-iv-keeping-what-comes/index.md",
@@ -83,6 +87,7 @@ window.SERIES = [
     "id": "reference",
     "kind": "series",
     "name": "Reference",
+    "nav": "Reference",
     "folder": "docs/reference",
     "edition": null,
     "index": "docs/reference/index.md",
@@ -100,42 +105,54 @@ window.PATH_TO_INFO = {
     "seriesId": "index",
     "seriesName": "Home",
     "title": "Home",
-    "indexPath": "docs/index.md"
+    "indexPath": "docs/index.md",
+    "next": "docs/start-here.md"
   },
   "docs/start-here.md": {
     "seriesId": "start-here",
     "seriesName": "Start here",
     "title": "Start here",
-    "indexPath": "docs/start-here.md"
+    "indexPath": "docs/start-here.md",
+    "prev": "docs/index.md",
+    "next": "docs/movement-i-do-you-want-a-revival/index.md"
   },
   "docs/movement-i-do-you-want-a-revival/index.md": {
     "seriesId": "movement-i-do-you-want-a-revival",
     "seriesName": "Movement I — Do You Want a Revival?",
     "title": "Movement I — Do You Want a Revival?",
-    "indexPath": "docs/movement-i-do-you-want-a-revival/index.md"
+    "indexPath": "docs/movement-i-do-you-want-a-revival/index.md",
+    "prev": "docs/start-here.md",
+    "next": "docs/movement-ii-what-is-your-soil/index.md"
   },
   "docs/movement-ii-what-is-your-soil/index.md": {
     "seriesId": "movement-ii-what-is-your-soil",
     "seriesName": "Movement II — What Is Your Soil?",
     "title": "Movement II — What Is Your Soil?",
-    "indexPath": "docs/movement-ii-what-is-your-soil/index.md"
+    "indexPath": "docs/movement-ii-what-is-your-soil/index.md",
+    "prev": "docs/movement-i-do-you-want-a-revival/index.md",
+    "next": "docs/movement-iii-preparing-the-soil/index.md"
   },
   "docs/movement-iii-preparing-the-soil/index.md": {
     "seriesId": "movement-iii-preparing-the-soil",
     "seriesName": "Movement III — Preparing the Soil",
     "title": "Movement III — Preparing the Soil",
-    "indexPath": "docs/movement-iii-preparing-the-soil/index.md"
+    "indexPath": "docs/movement-iii-preparing-the-soil/index.md",
+    "prev": "docs/movement-ii-what-is-your-soil/index.md",
+    "next": "docs/movement-iv-keeping-what-comes/index.md"
   },
   "docs/movement-iv-keeping-what-comes/index.md": {
     "seriesId": "movement-iv-keeping-what-comes",
     "seriesName": "Movement IV — Keeping What Comes",
     "title": "Movement IV — Keeping What Comes",
-    "indexPath": "docs/movement-iv-keeping-what-comes/index.md"
+    "indexPath": "docs/movement-iv-keeping-what-comes/index.md",
+    "prev": "docs/movement-iii-preparing-the-soil/index.md",
+    "next": "docs/reference/index.md"
   },
   "docs/reference/index.md": {
     "seriesId": "reference",
     "seriesName": "Reference",
     "title": "Reference",
-    "indexPath": "docs/reference/index.md"
+    "indexPath": "docs/reference/index.md",
+    "prev": "docs/movement-iv-keeping-what-comes/index.md"
   }
 };

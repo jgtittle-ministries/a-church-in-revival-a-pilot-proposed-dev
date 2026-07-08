@@ -376,7 +376,7 @@
     topnavVols.innerHTML = SERIES.map(s => {
       const target = s.kind === 'page' ? s.path : (s.index || (s.chapters[0] && s.chapters[0].path));
       const cur = (info && info.seriesId === s.id) ? ' class="current"' : '';
-      return `<a href="reader.html#${encodeURIComponent(target)}"${cur}><span class="v-num">·</span>${escapeHTML(s.name)}</a>`;
+      return `<a href="reader.html#${encodeURIComponent(target)}"${cur}><span class="v-num">·</span>${escapeHTML(s.nav || s.name)}</a>`;
     }).join('');
   }
 

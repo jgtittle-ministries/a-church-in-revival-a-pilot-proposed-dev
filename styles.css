@@ -141,9 +141,11 @@ body > * { position: relative; z-index: 1; }
 .topnav-vols {
   display: flex;
   gap: 2px;
+  row-gap: 0;
   margin: 0 auto;
-  flex-wrap: nowrap;
-  overflow-x: auto;
+  flex-wrap: wrap;          /* never clip movements — wrap to a second row instead */
+  justify-content: center;
+  overflow-x: visible;
   scrollbar-width: none;
 }
 .topnav-vols::-webkit-scrollbar { display: none; }
