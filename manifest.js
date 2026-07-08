@@ -107,7 +107,11 @@ window.SERIES = [
         "title": "When the Ground Goes Dry"
       },
       {
-        "path": "docs/movement-iii-preparing-the-soil/05-the-pilot-season-by-season.md",
+        "path": "docs/movement-iii-preparing-the-soil/05-who-watches-the-shepherds.md",
+        "title": "Who Watches the Shepherds?"
+      },
+      {
+        "path": "docs/movement-iii-preparing-the-soil/06-the-pilot-season-by-season.md",
         "title": "The Pilot, Season by Season"
       }
     ]
@@ -278,14 +282,22 @@ window.PATH_TO_INFO = {
     "title": "When the Ground Goes Dry",
     "indexPath": "docs/movement-iii-preparing-the-soil/index.md",
     "prev": "docs/movement-iii-preparing-the-soil/03-the-practices-that-till.md",
-    "next": "docs/movement-iii-preparing-the-soil/05-the-pilot-season-by-season.md"
+    "next": "docs/movement-iii-preparing-the-soil/05-who-watches-the-shepherds.md"
   },
-  "docs/movement-iii-preparing-the-soil/05-the-pilot-season-by-season.md": {
+  "docs/movement-iii-preparing-the-soil/05-who-watches-the-shepherds.md": {
+    "seriesId": "movement-iii-preparing-the-soil",
+    "seriesName": "Movement III — Preparing the Soil",
+    "title": "Who Watches the Shepherds?",
+    "indexPath": "docs/movement-iii-preparing-the-soil/index.md",
+    "prev": "docs/movement-iii-preparing-the-soil/04-when-the-ground-goes-dry.md",
+    "next": "docs/movement-iii-preparing-the-soil/06-the-pilot-season-by-season.md"
+  },
+  "docs/movement-iii-preparing-the-soil/06-the-pilot-season-by-season.md": {
     "seriesId": "movement-iii-preparing-the-soil",
     "seriesName": "Movement III — Preparing the Soil",
     "title": "The Pilot, Season by Season",
     "indexPath": "docs/movement-iii-preparing-the-soil/index.md",
-    "prev": "docs/movement-iii-preparing-the-soil/04-when-the-ground-goes-dry.md",
+    "prev": "docs/movement-iii-preparing-the-soil/05-who-watches-the-shepherds.md",
     "next": "docs/movement-iv-keeping-what-comes/index.md"
   },
   "docs/movement-iv-keeping-what-comes/index.md": {
@@ -293,7 +305,7 @@ window.PATH_TO_INFO = {
     "seriesName": "Movement IV — Keeping What Comes",
     "title": "Movement IV — Keeping What Comes",
     "indexPath": "docs/movement-iv-keeping-what-comes/index.md",
-    "prev": "docs/movement-iii-preparing-the-soil/05-the-pilot-season-by-season.md",
+    "prev": "docs/movement-iii-preparing-the-soil/06-the-pilot-season-by-season.md",
     "next": "docs/movement-iv-keeping-what-comes/01-the-drift-downward.md"
   },
   "docs/movement-iv-keeping-what-comes/01-the-drift-downward.md": {

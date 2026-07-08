@@ -11,4 +11,6 @@ If Movement II found hungry hearts in your congregation, this movement is about 
 - **The practices that till.** Hearing and obeying God as the one seed everything else serves; the simple practices — Scripture, listening prayer, honest fellowship — by which ground softens; and the Four Connects as the offered path for every hungry heart Movement II surfaced.
 - **When the ground goes dry.** A praying church *will* pass through dryness, and dryness is the most misread experience in the spiritual life. This chapter gives leaders the differential — the four different things dryness can be, two of which call for opposite responses — so that a church preparing for revival does not quit at the exact moment God is doing its deepest work.
 
+- **Who watches the shepherds.** The structure that protects the voice of the least powerful: named oversight for every leader, a safe channel every member is told about from their first week, a graduated response written before it is needed — including real removal for any role — a named hand above even the senior leadership, and the unsoftened line to civil authority. Trust opens where walls exist.
+
 The movement closes with the pilot itself: what a willing church would actually run, season by season — prepare, test, and get started.
