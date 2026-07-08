@@ -35,6 +35,10 @@ window.SERIES = [
       {
         "path": "docs/movement-i-do-you-want-a-revival/index.md",
         "title": "Movement I — Do You Want a Revival?"
+      },
+      {
+        "path": "docs/movement-i-do-you-want-a-revival/02-the-seven-letters.md",
+        "title": "The Seven Letters: What Christ Says to a Church"
       }
     ]
   },
@@ -65,6 +69,10 @@ window.SERIES = [
       {
         "path": "docs/movement-iii-preparing-the-soil/index.md",
         "title": "Movement III — Preparing the Soil"
+      },
+      {
+        "path": "docs/movement-iii-preparing-the-soil/04-when-the-ground-goes-dry.md",
+        "title": "When the Ground Goes Dry"
       }
     ]
   },
@@ -80,6 +88,14 @@ window.SERIES = [
       {
         "path": "docs/movement-iv-keeping-what-comes/index.md",
         "title": "Movement IV — Keeping What Comes"
+      },
+      {
+        "path": "docs/movement-iv-keeping-what-comes/01-the-drift-downward.md",
+        "title": "The Drift Downward"
+      },
+      {
+        "path": "docs/movement-iv-keeping-what-comes/04-handing-the-fire.md",
+        "title": "Handing the Fire"
       }
     ]
   },
@@ -122,6 +138,14 @@ window.PATH_TO_INFO = {
     "title": "Movement I — Do You Want a Revival?",
     "indexPath": "docs/movement-i-do-you-want-a-revival/index.md",
     "prev": "docs/start-here.md",
+    "next": "docs/movement-i-do-you-want-a-revival/02-the-seven-letters.md"
+  },
+  "docs/movement-i-do-you-want-a-revival/02-the-seven-letters.md": {
+    "seriesId": "movement-i-do-you-want-a-revival",
+    "seriesName": "Movement I — Do You Want a Revival?",
+    "title": "The Seven Letters: What Christ Says to a Church",
+    "indexPath": "docs/movement-i-do-you-want-a-revival/index.md",
+    "prev": "docs/movement-i-do-you-want-a-revival/index.md",
     "next": "docs/movement-ii-what-is-your-soil/index.md"
   },
   "docs/movement-ii-what-is-your-soil/index.md": {
@@ -129,7 +153,7 @@ window.PATH_TO_INFO = {
     "seriesName": "Movement II — What Is Your Soil?",
     "title": "Movement II — What Is Your Soil?",
     "indexPath": "docs/movement-ii-what-is-your-soil/index.md",
-    "prev": "docs/movement-i-do-you-want-a-revival/index.md",
+    "prev": "docs/movement-i-do-you-want-a-revival/02-the-seven-letters.md",
     "next": "docs/movement-iii-preparing-the-soil/index.md"
   },
   "docs/movement-iii-preparing-the-soil/index.md": {
@@ -138,6 +162,14 @@ window.PATH_TO_INFO = {
     "title": "Movement III — Preparing the Soil",
     "indexPath": "docs/movement-iii-preparing-the-soil/index.md",
     "prev": "docs/movement-ii-what-is-your-soil/index.md",
+    "next": "docs/movement-iii-preparing-the-soil/04-when-the-ground-goes-dry.md"
+  },
+  "docs/movement-iii-preparing-the-soil/04-when-the-ground-goes-dry.md": {
+    "seriesId": "movement-iii-preparing-the-soil",
+    "seriesName": "Movement III — Preparing the Soil",
+    "title": "When the Ground Goes Dry",
+    "indexPath": "docs/movement-iii-preparing-the-soil/index.md",
+    "prev": "docs/movement-iii-preparing-the-soil/index.md",
     "next": "docs/movement-iv-keeping-what-comes/index.md"
   },
   "docs/movement-iv-keeping-what-comes/index.md": {
@@ -145,7 +177,23 @@ window.PATH_TO_INFO = {
     "seriesName": "Movement IV — Keeping What Comes",
     "title": "Movement IV — Keeping What Comes",
     "indexPath": "docs/movement-iv-keeping-what-comes/index.md",
-    "prev": "docs/movement-iii-preparing-the-soil/index.md",
+    "prev": "docs/movement-iii-preparing-the-soil/04-when-the-ground-goes-dry.md",
+    "next": "docs/movement-iv-keeping-what-comes/01-the-drift-downward.md"
+  },
+  "docs/movement-iv-keeping-what-comes/01-the-drift-downward.md": {
+    "seriesId": "movement-iv-keeping-what-comes",
+    "seriesName": "Movement IV — Keeping What Comes",
+    "title": "The Drift Downward",
+    "indexPath": "docs/movement-iv-keeping-what-comes/index.md",
+    "prev": "docs/movement-iv-keeping-what-comes/index.md",
+    "next": "docs/movement-iv-keeping-what-comes/04-handing-the-fire.md"
+  },
+  "docs/movement-iv-keeping-what-comes/04-handing-the-fire.md": {
+    "seriesId": "movement-iv-keeping-what-comes",
+    "seriesName": "Movement IV — Keeping What Comes",
+    "title": "Handing the Fire",
+    "indexPath": "docs/movement-iv-keeping-what-comes/index.md",
+    "prev": "docs/movement-iv-keeping-what-comes/01-the-drift-downward.md",
     "next": "docs/reference/index.md"
   },
   "docs/reference/index.md": {
@@ -153,6 +201,6 @@ window.PATH_TO_INFO = {
     "seriesName": "Reference",
     "title": "Reference",
     "indexPath": "docs/reference/index.md",
-    "prev": "docs/movement-iv-keeping-what-comes/index.md"
+    "prev": "docs/movement-iv-keeping-what-comes/04-handing-the-fire.md"
   }
 };
